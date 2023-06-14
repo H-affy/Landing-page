@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 30px;
+    margin: 10px;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    justify-content: end;
+    font-size: 20px;
+    align-items: center;
+    flex-direction: row;
+}
+nav ul li{
+    font-weight: bold;
+    font-size: 30px;
+}
+.image{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 20px;
+    margin: 10px;
+    border-radius: 50px;
+}
+.one{
+    background-color: #1f2937;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid ;
+}
+.header{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: verdana;
+}
+.container{
+    margin: 40px;
+    padding: 4opx;
+}
+.container ul, li{
+    list-style: none;
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+    align-items: center;
+}
+.para{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: roboto;
+}
+.love{
+    background-color: #E5E7EB;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+    padding: 150px;
+    margin: 50px;
+}
+.key{
+    background-color: #3882F6;
+    margin: 180px;
+    padding: 60px;
+    border-radius: 15px;
+}
+h3{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: roboto;
+}
+p{
+    font-size: 20px;
+    font-family: roboto;
+}
+.last{
+    text-align: end;
+}
