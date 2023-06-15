@@ -90,3 +90,8 @@ p{
 .last{
     text-align: end;
 }
+.copy{
+    text-align: center;
+    font-size: 20px;
+    font-family: roboto;
+}
